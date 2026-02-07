@@ -3,9 +3,7 @@
 
 ## Overview
 
-This codebase builds upon the framework introduced in  
-**Identifiability and Generalizability in Constrained Inverse Reinforcement Learning**  
-([arXiv:2306.00629](https://arxiv.org/pdf/2306.00629.pdf)).
+This codebase builds upon the framework introduced in  **Identifiability and Generalizability in Constrained Inverse Reinforcement Learning**  ([arXiv:2306.00629](https://arxiv.org/pdf/2306.00629.pdf)).
 
 It provides implementations of gridworld environments, core solvers for constrained Markov decision processes (CMDPs), visualization utilities, and several safe reinforcement learning algorithms for empirical evaluation.
 
