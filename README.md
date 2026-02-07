@@ -15,8 +15,7 @@ It provides implementations of gridworld environments, core solvers for constrai
 
 These directories define the gridworld environment and the core algorithmic components.
 
-- The gridworld environment and transition dynamics follow the standard formulation in  
-  **Sutton, R. S. and Barto, A. G. _Reinforcement Learning: An Introduction_. MIT Press, 2018.**
+- The gridworld environment and transition dynamics follow the standard formulation in **Sutton, R. S. and Barto, A. G. _Reinforcement Learning: An Introduction_. MIT Press, 2018.**
 - The code includes utility functions for computing:
   - reward and constraint value functions,
   - Q-functions,
