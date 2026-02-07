@@ -37,19 +37,13 @@ This directory contains utilities for visualizing learned policies in the gridwo
 
 This directory contains implementations of several constrained reinforcement learning algorithms used for comparison:
 
-1. **RPG-PD**  
-   Ding, D., et al.  
-   *Last-iterate convergent policy gradient primal-dual methods for constrained MDPs.*  
-   NeurIPS, 2023.
+1. **RPG-PD**: Ding, D., Wei, C. Y., Zhang, K., & Ribeiro, A. *Last-iterate convergent policy gradient primal-dual methods for constrained MDPs.* NeurIPS, 2023.
 
-2. **IPO**  
-   Liu, Y., Halev, A., and Liu, X.  
-   *Policy learning with constraints in model-free reinforcement learning: A survey.*  
-   IJCAI, 2021.
+2. **IPO**: Liu, Y., Halev, A., and Liu, X. *Policy learning with constraints in model-free reinforcement learning: A survey.* IJCAI, 2021.
 
-3. **Log-Barrier**  
-   Ni, T. and Kamgarpour, M.  
-   *A safe exploration approach to constrained Markov decision processes.*  
-   AISTATS, 2025.
+3. **Log-Barrier**: Ni, T. and Kamgarpour, M. *A safe exploration approach to constrained Markov decision processes.* AISTATS, 2025.
 
+4. **NPG-PD**: Ding, D., Zhang, K., Basar, T., & Jovanovic, M. *Natural policy gradient primal-dual method for constrained markov decision processes.* NeurIPS, 2020.
+
+6. **CRPO**: Xu, Tengyu, Yingbin Liang, and Guanghui Lan. *CRPO: A new approach for safe reinforcement learning with convergence guarantee.* ICML, 2021.
 ---
